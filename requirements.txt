@@ -1,0 +1,10 @@
+torch==2.5.1
+numpy==1.26.4
+tqdm==4.67.1
+python-picard==0.8.1
+coroICA==0.1.25
+POT==0.9.5
+scikit-learn==1.5.2
+seaborn==0.13.2
+pandas==2.2.3
+cmasher==1.9.2
